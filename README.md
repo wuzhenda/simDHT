@@ -28,4 +28,4 @@ simDHT:
 其他:
 ====
 1. 因只实现了DHT协议, 未实现种子下载, 所收集到的**infohash**将会存储在**infohash.log**文件中.
-2. 种子下载可去迅雷种子库下载、使用[libtorrent](http://libtorrent.org)、实现种子协议([bep0003](www.bittorrent.org/beps/bep_0003.html), [bep0009](www.bittorrent.org/beps/bep_0009.html), [bep0010](www.bittorrent.org/beps/bep_0010.html))
+2. 种子下载可去迅雷种子库下载、使用[libtorrent](http://libtorrent.org)、实现种子协议([bep0003](http://www.bittorrent.org/beps/bep_0003.html), [bep0009](http://www.bittorrent.org/beps/bep_0009.html), [bep0010](http://www.bittorrent.org/beps/bep_0010.html))
