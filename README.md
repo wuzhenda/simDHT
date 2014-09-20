@@ -1,7 +1,5 @@
-update 2014-9-20:
-应simDHT原作者要求，在此著名出处。
-此处代码fork from https://github.com/fanpei
-原作者email:fanpei91@gmail.com
+﻿应simDHT原作者要求，在此著名出处。
+此处代码fork from https://github.com/laomayi/
 
 
 simDHT:
